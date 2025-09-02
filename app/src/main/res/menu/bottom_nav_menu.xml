@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_hours_to_minutes"
+        android:title="Hour → Min"
+        android:icon="@drawable/hour" />
+
+    <item
+        android:id="@+id/nav_minutes_to_seconds"
+        android:title="Min → Sec"
+        android:icon="@drawable/min" />
+
+    <item
+        android:id="@+id/nav_seconds_to_hours"
+        android:title="Sec → Hour"
+        android:icon="@drawable/sec" />
+
+    <item
+        android:id="@+id/nav_hours_to_days"
+        android:title="Hour → Days"
+        android:icon="@drawable/day" />
+
+</menu>
